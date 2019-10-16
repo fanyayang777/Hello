@@ -1,4 +1,4 @@
-package com.xinzhi.pojo;
+package com.xinzhi.test;
 
 public class UserInfo {
     private int username;
